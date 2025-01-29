@@ -62,9 +62,9 @@ The app consists of several well-structured components:
 - Prevents **unnecessary losses** by ensuring **optimal position sizing**.
 
 ### Screenshots
-![Synthetic Calculator Screenshot 1](./assets/syntheticcalc/1.png)
-![Synthetic Calculator Screenshot 2](./assets/syntheticcalc/5.png)
-![Synthetic Calculator Screenshot 3](./assets/syntheticcalc/3.png)
+(https://github.com/GeorgeBonga/SyntheticDcalculator/blob/main/src/1.png)
+(https://github.com/GeorgeBonga/SyntheticDcalculator/blob/main/src/3.png)
+(https://github.com/GeorgeBonga/SyntheticDcalculator/blob/main/src/5.png)
 
 ---
 
