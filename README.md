@@ -64,7 +64,7 @@ The app consists of several well-structured components:
 ### Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/1.png" width="200" height="400"/>
+  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/1.png" width="200"/>
   <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/3.png" width="200"/>
   <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/5.png" width="200"/>
   <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/7.png" width="200"/>
