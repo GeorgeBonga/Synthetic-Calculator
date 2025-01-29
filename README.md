@@ -14,8 +14,8 @@
 ## Market
 - **Financial Tech**
 
-## Relevant Links
-- [GitHub Repository](https://github.com/synthetic-calculator)
+## Download Links
+- [Uptodown Download](https://apkpure.com/synthetic-calculator/com.bonga.SyntheticDcalculator)
 - [APKPure Download](https://apkpure.com/synthetic-calculator/com.bonga.SyntheticDcalculator)
 
 ---
