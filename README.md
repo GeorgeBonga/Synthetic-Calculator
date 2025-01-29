@@ -1,18 +1,20 @@
-# Synthetic Calculator - Risk Management for Deriv Traders
+  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/1.png" width="20"/># Synthetic Calculator - Risk Management for Deriv Traders
 
 ## Tools
-- **React Native**
-- **Expo**
-- **Deriv API**
-- **Tailwind CSS**
+<p align="center">
+  <b>React Native</b> | <b>Expo</b> | <b>Deriv API</b> | <b>Tailwind CSS</b>
+</p>
 
 ## Project Type
-- **Risk Management**
-- **Trading Tool**
-- **Financial Analysis**
+<p align="center">
+  <b>Risk Management</b> | <b>Trading Tool</b> | <b>Financial Analysis</b>
+</p>
 
 ## Market
-- **Financial Tech**
+<p align="center">
+  <b>Financial Tech</b>
+</p>
+
 
 ## Download Links
 - [Uptodown Download](https://apkpure.com/synthetic-calculator/com.bonga.SyntheticDcalculator)
