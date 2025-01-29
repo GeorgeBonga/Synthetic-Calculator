@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/icon.png" width="60" style="border-radius: 50%;"/> Sy **Synthetic Calculator - Risk Management for Deriv Traders**
+<p style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/icon.png" width="60" style="border-radius: 50%; margin-right: 10px;"/>
+  <strong>Synthetic Calculator - Risk Management for Deriv Traders</strong>
+</p>
 
 ## Tools
 - **React Native**
