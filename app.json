@@ -1,10 +1,9 @@
 {
   "expo": {
     "name": "Synthetic Calculator",
-    "slug": "SyntheticDcalculator",
+    "slug": "Syntheticcalculator",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
+  
     "userInterfaceStyle": "light",
     "assetBundlePatterns": [
       "**/*"
@@ -14,27 +13,5 @@
       "supportsTablet": true,
       "jsEngine": "hermes"
     },
-    "android": {
-      "permissions": [
-        "android.permission.INTERNET"
-      ],
-      "hermesEnabled": true,
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.syntheticdcalculator"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "1f65c7da-4db2-49d9-a681-93c347d6b4ba"
-      }
-    }
-  },
-  "react-native-google-mobile-ads": {
-    "android_app_id": "ca-app-pub-6600455892095633~1617435431"
-  }
+   
 }
