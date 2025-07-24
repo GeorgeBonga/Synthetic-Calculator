@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/icon.png" width="80" radius ="50";"/>
+  <img src="https://github.com/GeorgeBonga/Synthetic-Calculator/blob/main/src/icon.png" width="80" radius ="50";"/>
 </p>
 <h2 align="center"><strong>Synthetic Calculator - Risk Management for Deriv Traders</strong></h2>
 
